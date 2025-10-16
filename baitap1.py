@@ -4,4 +4,11 @@ for i in range(2000,3201):
         q.append(str(i))
 print(",".join(q))
 
+#debai:
+#tìm tất cả các số chia hết cho 7
+#không phải bội số của 5, 
+#nằm trong đoạn 2000 và 3200 
+#(tính cả 2000 và 3200)
+
+
 
